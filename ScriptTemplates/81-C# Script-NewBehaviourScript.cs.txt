@@ -1,0 +1,24 @@
+using UnityEngine;
+
+#ROOTNAMESPACEBEGIN#
+    public class #SCRIPTNAME# : MonoBehaviour 
+    {
+        // Use this for initialization and subscribing to events
+        private void OnEnable() 
+        {
+            
+        }
+
+        // Use this to unsubscribe from events
+        private void OnDisable() 
+        {
+            
+        }
+
+        // Update is called once per frame
+        private void Update() 
+        {
+            
+        }
+    }
+#ROOTNAMESPACEEND#
